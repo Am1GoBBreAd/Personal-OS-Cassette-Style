@@ -10,7 +10,7 @@ A personal productivity dashboard built with React. Tracks daily goals, workouts
 
 ## Demo
 
-https://github.com/Am1GoBBreAd/Personal-OS-Cassette-Style/2026-02-27 14-35-36.mp4
+https://github.com/Am1GoBBreAd/Personal-OS-Cassette-Style/demo.mp4
 
 > **How to add your video:**
 > 1. Go to any issue on your GitHub repo → click the text box
