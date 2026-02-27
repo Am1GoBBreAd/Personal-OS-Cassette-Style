@@ -4,7 +4,7 @@ A personal productivity dashboard built with React. Tracks daily goals, workouts
 
 > Aesthetic inspired by the J. Cole *4 Your Eyez Only* cassette — deep black, translucent teal, intimate and minimal.
 
-![Personal OS preview](app-display.png)
+![Personal OS preview](App-display.png)
 
 ---
 
