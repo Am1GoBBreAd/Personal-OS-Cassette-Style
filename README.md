@@ -8,6 +8,18 @@ A personal productivity dashboard built with React. Tracks daily goals, workouts
 
 ---
 
+## Demo
+
+https://github.com/Am1GoBBreAd/Personal-OS-Cassette-Style/2026-02-27 14-35-36.mp4
+
+> **How to add your video:**
+> 1. Go to any issue on your GitHub repo → click the text box
+> 2. Drag and drop your `.mp4` file into it — GitHub hosts it for free
+> 3. Copy the generated URL (looks like `https://github.com/user-attachments/assets/...`)
+> 4. Paste it here replacing the placeholder above — GitHub renders it as an inline player
+
+---
+
 ## Features
 
 | Tab | What it does |
